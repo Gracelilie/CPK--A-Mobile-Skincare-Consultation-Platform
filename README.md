@@ -68,7 +68,3 @@ This project is split into two parts: the React frontend and the Python backend.
 Your React app will now be running and connected to your Python backend.
 ## Demo
 
-[▶ Watch the CPK demo](https://drive.google.com/file/d/14FOSwLjJbKvYjTJKIwZZWDYSATmA4MJa/view?usp=sharing)
-
-A walkthrough showing sign-in, consultation options, demo chat,
-and skincare progress tracking.
