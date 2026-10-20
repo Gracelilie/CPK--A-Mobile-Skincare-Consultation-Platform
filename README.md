@@ -2,6 +2,10 @@
 
 CPK is a wellness-focused mobile application that connects users with a team of professional aestheticians for personalized virtual skincare consultations. The platform features a secure communication system, a comprehensive progress tracker, a membership model, and a referral program. The backend is built with Python for robust data handling and security, while the frontend is a dynamic, user-friendly interface developed using React.
 
+[▶ Watch the CPK demo](https://drive.google.com/file/d/14FOSwLjJbKvYjTJKIwZZWDYSATmA4MJa/view?usp=sharing)
+
+A walkthrough showing sign-in, consultation options, demo chat,
+and skincare progress tracking.
 ---
 
 ## Key Features
